@@ -1,4 +1,5 @@
 # working-with-CSV-and-TXT-files
 this is a simple data science project:
-dealing with CSV fiel
-reading, write, and adding with txt fiel
+using pandas, numpay, and csv libraries' 
+dealing with CSV file
+reading, writing, and adding with a Txt file
